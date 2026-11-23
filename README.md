@@ -12,8 +12,7 @@
 </h3>
 
 <p align="center">
-  Interested in Web Development, Software Engineering,
-  and Artificial Intelligence.
+  Interested in Web Development and Artificial Intelligence.
 </p>
 
 <h1 align ="center">
