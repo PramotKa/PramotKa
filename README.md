@@ -45,44 +45,6 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mongodb" />
 </p>
 
-## 🚀 Featured Projects
-
-### 1. FASTAPI-LM
-Machine Learning API service built with FastAPI.
-
-- Python
-- FastAPI
-- REST API
-- Machine Learning
-
-🔗 https://github.com/PramotKa/FASTAPI-LM
-
-### 2. AI Companion Suite
-Web application project exploring modern frontend development.
-
-- React
-- TypeScript
-- Vite
-- Tailwind CSS
-
-🔗 https://github.com/PramotKa/ai-companion-suite
-
-### 3. ProjectAI
-A group project related to MongoDB.
-
-- JavaScript
-- MongoDB
-
-🔗 https://github.com/PramotKa/ProjectAI
-
-## 📚 Currently Learning
-
-- Full-Stack Web Development
-- Backend API Development
-- Artificial Intelligence
-- Machine Learning
-- Software Development
-
 ## 📫 Connect With Me
 
 <p>
